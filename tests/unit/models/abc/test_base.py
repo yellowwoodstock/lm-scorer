@@ -3,6 +3,7 @@ import math
 import pytest  # pylint: disable=unused-import
 
 import scipy
+import scipy.stats
 import torch
 from lm_scorer.models.abc.base import LMScorer
 
